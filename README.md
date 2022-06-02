@@ -1,5 +1,5 @@
 # Community-Library
-without database
+A python program using tkinter without database
 
 A. Samson, I.J. Timbungco, N.K. Vitales, S.C. Zarraga
 
